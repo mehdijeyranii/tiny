@@ -1,2 +1,4 @@
-# tiny
-The tiniest npm module
+# @mehdijeyrani/tiny
+
+## Install
+$ npm install @mehdijeyrani/tiny
